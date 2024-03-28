@@ -1,0 +1,1 @@
+DrGSlasher.Icon = "drgslasher/icon16.png"

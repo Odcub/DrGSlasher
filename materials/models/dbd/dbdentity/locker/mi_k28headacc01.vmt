@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dbd/dredge/mi_k28headacc01"
+	"$bumpmap" "models/dbd/dredge/normheadacc1"
+
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.1"	
+	"$lightwarptexture" "models/dbd/dredge/dredge_lightwarp"
+	"$phongfresnelranges"	"[1 5 60]"
+	"$halflambert" "1"
+}

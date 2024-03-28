@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dbd/dbdentity/locker/mi_closetwood02"
+	"$bumpmap" "models/dbd/dbdentity/locker/normlocker"
+
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.1"	
+	"$lightwarptexture" "models/dbd/dbdentity/locker/locker_lightwarp"
+	"$phongfresnelranges"	"[1 5 60]"
+	"$halflambert" "1"
+}
+
